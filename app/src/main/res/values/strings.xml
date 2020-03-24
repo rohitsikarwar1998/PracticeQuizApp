@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name"> QuizApp</string>
+    <string name="initial_score">Score 0/15</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string-array name="question_bank">
+        <item>Only character or integer can be used in switch statement</item>
+        <item>The return type of malloc function is void. </item>
+        <item>#define is known as preprocessor compiler directive</item>
+        <item>Algorithm is the graphical representation of logic. </item>
+        <item>sizeof( ) is a function that returns the size of a variable. </item>
+        <item>The ++ operator increments the operand by 1, whereas, the -- operator decrements it by 1.</item>
+        <item>It is necessary that a loop counter must only be an int. It cannot be a float.</item>
+        <item>A zero value is considered to be false and a non-zero value is considered to be true.</item>
+        <item>= is used for comparison, whereas, == is used for assignment of two quantities.</item>
+        <item>Blank spaces may be inserted between two words to improve the readability of the statement.</item>
+        <item>The keywords cannot be used as variable names.</item>
+        <item>continue keyword skip one iteration of loop?</item>
+        <item>Switch statement can have any number of case instances</item>
+        <item>Two case constants within the same switch statement can have the same value.</item>
+        <item>A file opened for writing already exists its contents would be overwritten.</item>
+    </string-array>
+
+    <string-array name="answer_bank">
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#097D6B</color>
+    <color name="colorAccent">#F83466</color>
+    <color name="true_btn_color">#6EF6FA</color>
+    <color name="false_btn_color">#FFA7A7</color>
+    <color name="score_text_color">#FEFFD0</color>
+    <color name="colorOverlayfalse">#9EFFA7A7</color>
+    <color name="colorOverlaytrue">#9E6EF6FA</color>
+
+</resources>
